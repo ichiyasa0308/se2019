@@ -1,0 +1,13 @@
+@startuml
+scale 1.2
+title <size:18>分岐処理</size>
+
+start
+if (Condition?) then (true)
+  :Statement 1;
+else (false)
+  :Statement 2;
+endif
+end
+
+@enduml

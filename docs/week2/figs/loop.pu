@@ -1,0 +1,11 @@
+@startuml
+scale 1.2
+title <size:18>反復処理</size>
+
+start
+repeat
+  :Statement 1;
+repeat while (Condition?)
+end
+
+@enduml

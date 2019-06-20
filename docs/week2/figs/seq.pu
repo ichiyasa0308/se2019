@@ -1,0 +1,11 @@
+@startuml
+scale 1.2
+title <size:18>順次処理</size>
+
+start
+:Statement 1;
+:Statement 2;
+:Statement 3;
+end
+
+@enduml
