@@ -7,3 +7,6 @@
 - [Docker での利用方法](week0/docker.md)
 - [Markdown](week0/markdown.md)
 
+- [第１週講義資料](week1/week1.md)
+- [第１週講義ノート](week1/note_week1.md)
+
