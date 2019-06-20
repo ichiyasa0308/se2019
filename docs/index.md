@@ -10,9 +10,9 @@
 ## 第１週
 
 - [第１週講義資料](week1/week1.md)
-- [第１週講義ノート](week1/note_week1.md)
+- [第１週講義ノート](notes/note_week1.md)
 
 ## 第２週
 
 - [第２週講義資料](week2/week2.md)
-- [第２週講義ノート](week2/note_week2.md)
+- [第２週講義ノート](notes/note_week2.md)
