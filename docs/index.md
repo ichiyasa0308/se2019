@@ -4,7 +4,7 @@
 
 - [ガイダンス](week0/guidance.md)
 - [Cloud9](week0/cloud9.md)
-- [Docker での利用方法](week0/docker.md)
+- [Dockerでの利用方法](week0/docker.md)
 - [Markdown](week0/markdown.md)
 
 - [第１週講義資料](week1/week1.md)

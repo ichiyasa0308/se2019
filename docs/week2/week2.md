@@ -36,7 +36,9 @@ img[alt~="center"] {
 
 # 課題
 
-### note_week2.md を作成して Bb9 を通じて提出せよ．
+- note_week2.md を作成して Bb9 を通じて提出せよ．
+- Cloud9 の Markdown プレビュー機能を活用
+- Visual Studio Code (https://code.visualstudio.com) や ATOM (https://atom.io) をインストールし，Markdown プレビュー機能を活用してもよい
 
 ---
 
@@ -745,7 +747,7 @@ class Test {
 
 ---
 
-# Excercise
+## Exercise
 
 - 学生クラス（class Students）で「学生番号を聞く」メソッド（getID）を作成せよ．
 - 属性として，講義名（String），担当教員名（String）をもつ，授業クラス（class Lectures）を作成して，「講義名を聞く」（getLectureName），「担当教員名を聞く」（getTeacherName）メソッドを作成せよ．
@@ -789,6 +791,8 @@ class Test {
 
 ---
 
-# 課題
+## 課題（再掲）
 
-### note_week2.md を作成して Bb9 を通じて提出せよ．
+- note_week2.md を作成して Bb9 を通じて提出せよ．
+- Cloud9 の Markdown プレビュー機能を活用
+- Visual Studio Code (https://code.visualstudio.com) や ATOM (https://atom.io) をインストールし，Markdown プレビュー機能を活用してもよい
