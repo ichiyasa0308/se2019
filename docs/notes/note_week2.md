@@ -70,32 +70,32 @@ class FizzBuzz {
 
 7. 以下のプログラムを作成せよ．
 
-- 学生クラス（class Students）で「学生番号を聞く」メソッド（getID）を作成せよ．
-- 属性として，講義名（String），担当教員名（String）をもつ，授業クラス（class Lectures）を作成して，「講義名を聞く」（getLectureName），「担当教員名を聞く」（getTeacherName）メソッドを作成せよ．
+- 学生クラス（class Student）で「学生番号を聞く」メソッド（getID）を作成せよ．
+- 属性として，講義名（String），担当教員名（String）をもつ，授業クラス（class Lecture）を作成して，「講義名を聞く」（getLectureName），「担当教員名を聞く」（getTeacherName）メソッドを作成せよ．
 
 ```java
-class Students {
+class Student {
   // 実装
 }
 
-class Lectures {
+class Lecture {
   // 実装
 }
 
 class Test {
   public static void main(String[] args) {
-    Students[] students = new Students[2];
-    Lectures[] lectures = new Lectures[6];
+    Student[] students = new Student[2];
+    Lecture[] lectures = new Lecture[6];
 
-    students[0] = new Students("田中", "b1234567");
-    students[1] = new Students("山田", "b1234568");
+    students[0] = new Student("田中", "b1234567");
+    students[1] = new Student("山田", "b1234568");
 
-    lectures[0] = new Lectures("ソフトウェア工学", "岡村");
-    lectures[1] = new Lectures("確率論基礎", "土肥");
-    lectures[2] = new Lectures("プログラミング１", "亀井");
-    lectures[3] = new Lectures("線形代数学１", "栗田");
-    lectures[4] = new Lectures("微分積分学１", "向谷");
-    lectures[5] = new Lectures("離散数学１", "今井");
+    lectures[0] = new Lecture("ソフトウェア工学", "岡村");
+    lectures[1] = new Lecture("確率論基礎", "土肥");
+    lectures[2] = new Lecture("プログラミング１", "亀井");
+    lectures[3] = new Lecture("線形代数学１", "栗田");
+    lectures[4] = new Lecture("微分積分学１", "向谷");
+    lectures[5] = new Lecture("離散数学１", "今井");
     for (int i=0; i<students.length; i++) {
       System.out.println("私の名前は" + students[i].getName() + "です．学生番号は" + students[i].getID() + "です");
     }
