@@ -40,6 +40,11 @@ img[alt~="center"] {
 - note_week2.md を作成して Bb9 を通じて提出せよ．
 - Cloud9 の Markdown プレビュー機能を活用
 - Visual Studio Code (https://code.visualstudio.com) や ATOM (https://atom.io) をインストールし，Markdown プレビュー機能を活用してもよい
+- 提出の際は，Markdown ファイルから PDF ファイルを生成して **PDF ファイルを Bb9 にアップロード**せよ．
+- Cloud9利用の場合は以下のコマンドで Markdown から整形済み PDF ファイルが作成される．
+```sh
+$ markdown-pdf note_week2.md
+```
 
 ## 構造化プログラミングとオブジェクト指向
 
@@ -739,3 +744,8 @@ class Test {
 - note_week2.md を作成して Bb9 を通じて提出せよ．
 - Cloud9 の Markdown プレビュー機能を活用
 - Visual Studio Code (https://code.visualstudio.com) や ATOM (https://atom.io) をインストールし，Markdown プレビュー機能を活用してもよい
+- 提出の際は，Markdown ファイルから PDF ファイルを生成して **PDF ファイルを Bb9 にアップロード**せよ．
+- Cloud9利用の場合は以下のコマンドで Markdown から整形済み PDF ファイルが作成される．
+```sh
+$ markdown-pdf note_week2.md
+```
